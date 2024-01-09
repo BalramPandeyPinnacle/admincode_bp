@@ -1,0 +1,39 @@
+.allStudent-wraper{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    padding: 0.5rem;
+    margin: auto;
+}
+
+.allStudent-heading{
+    display: flex;
+    line-height:12px;
+    font-size:16px;
+    padding: 0.5rem;
+    font-weight: bold;
+}
+.allStudent-subHeading{
+    display:flex;
+    padding: 0.5rem;
+}
+
+.allStudent-subHeading:hover{
+    box-shadow: rgba(9, 30, 66, 0.25) 0px 4px 8px -2px, rgba(9, 30, 66, 0.08) 0px 0px 0px 1px;
+}
+
+.SrNo{
+    width: 5rem;
+}
+
+.Name-student{
+    width: 20rem;
+}
+
+.email-student{
+    width: 30rem;
+}
+
+.purchased-courses{
+    width: 20rem;
+}

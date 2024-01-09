@@ -1,0 +1,59 @@
+.AddCourse-fullPage{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    margin: auto;
+}
+
+.AddCourse-inputbox{
+    padding: 0.5rem;
+    margin: 0.5rem;
+}
+
+.AddCourse-addCourseBtn{
+    margin: auto;
+    background-color:transparent;
+    border-radius: 21px;
+    border: 1px solid black;
+    color: black;
+    padding: 0.5rem;
+
+}
+
+.AddCourse-Heading{
+    margin:auto;
+}
+
+.createCourseForm{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    border: 1px solid black;
+    padding: 1rem;
+    width: 90%;
+    margin: auto;
+}
+.createCourse-inputBox{
+    padding: 0.5rem;
+    margin: 0.5rem;
+    width:80%;
+}
+
+.createCourse-image-div{
+    border: 1px solid black;
+    padding: 0.5rem;
+    margin: 0.5rem;
+    width: 15%;
+}
+
+
+.AddCourse-successMsg{
+    margin: auto;
+    background-color:transparent;
+    border-radius: 21px;
+    color:green;
+    padding: 0.5rem;
+ }
+.AddCourse-label{
+    margin-left: 0.5rem;
+ }
